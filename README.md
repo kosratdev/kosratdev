@@ -6,21 +6,21 @@
 I am a passionate mobile app developer with 10+ years of experience building native apps (**Swift** & **Kotlin**) and a strong background in **Flutter**. I also lead teams to deliver app excellence.
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java)](https://skillicons.dev)
----
 
+<!--
+---
 ![](https://raw.githubusercontent.com/kosratdev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kosratdev/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/kosratdev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kosratdev/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
+-->
 
 ## 📫 Get in touch
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kosratahmad/)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:kosrat.d.ahmad@gmail.com)
 [![Web](https://skillicons.dev/icons?i=htmx)](https://kosrat.dev)
-
----
 
 ## 🚀 Proud Projects
 
@@ -31,7 +31,6 @@ I am a passionate mobile app developer with 10+ years of experience building nat
   - Best Muslim library that provides: Prayer Times, Offline Geocoder, Names of Allah, and Azkars
   - [Flutter](https://github.com/my-prayers/muslim-data-flutter) | [Android](https://github.com/my-prayers/muslim-data-android) | [iOS](https://github.com/my-prayers/muslim-data-ios)
 
----
 <!--
 **kosratdev/kosratdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
